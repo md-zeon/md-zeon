@@ -4,9 +4,15 @@
 ### 💻 Full Stack Web Developer | MERN Stack 
 
 
-# 💫 About Me:
+## 💫 About Me
 
-🎓 I’m a Computer Science and Engineering student at Northern University Bangladesh  <br>💻 I'm a Full-Stack Web Developer working mainly with the MERN stack (MongoDB, Express.js, React, Node.js)  <br>🚀 Currently learning and exploring Next.js  <br>🛠️ I enjoy solving real-world problems through code and building responsive web applications  <br>🔍 Open to internships, freelance projects, and remote job opportunities  <br>🌱 Beyond web development, I also enjoy Data Structures & Algorithms and Competitive Programming<br>
+- 🎓 I’m a Computer Science and Engineering student at **Northern University Bangladesh**
+- 💻 I'm a **Full-Stack Web Developer** working mainly with the **MERN stack (MongoDB, Express.js, React, Node.js)**
+- 🚀 Currently **learning and exploring Next.js**
+- 🛠️ I enjoy **solving real-world problems** through code and building **responsive web applications**
+- 🔍 Open to **internships, freelance projects, and remote job opportunities**
+- 🌱 Beyond web development, I also enjoy **Data Structures & Algorithms** and **Competitive Programming**
+
 
 ```js
 const zeon = {
