@@ -1,6 +1,9 @@
+<img src="https://github.com/md-zeon/md-zeon/blob/main/banner.png" >
+
 # 💫 About Me:
 🎓 I’m a Computer Science and Engineering student at Northern University Bangladesh  <br>💻 I'm a Full-Stack Web Developer working mainly with the MERN stack (MongoDB, Express.js, React, Node.js)  <br>🚀 Currently learning and exploring Next.js  <br>🛠️ I enjoy solving real-world problems through code and building responsive web applications  <br>🔍 Open to internships, freelance projects, and remote job opportunities  <br>🌱 Beyond web development, I also enjoy Data Structures & Algorithms and Competitive Programming<br>
 
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeon.cse@gmail.com) 
