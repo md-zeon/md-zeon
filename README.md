@@ -8,6 +8,23 @@
 
 🎓 I’m a Computer Science and Engineering student at Northern University Bangladesh  <br>💻 I'm a Full-Stack Web Developer working mainly with the MERN stack (MongoDB, Express.js, React, Node.js)  <br>🚀 Currently learning and exploring Next.js  <br>🛠️ I enjoy solving real-world problems through code and building responsive web applications  <br>🔍 Open to internships, freelance projects, and remote job opportunities  <br>🌱 Beyond web development, I also enjoy Data Structures & Algorithms and Competitive Programming<br>
 
+```js
+const zeon = {
+  pronouns: "he" | "him",
+  code: ["C++", "JavaScript", "TypeScript", "HTML", "CSS", "Java", "C"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Firebase", "Vite", "DaisyUI"],
+  currentlyLearning: ["Next.js", "Advanced Firebase"],
+  interests: ["Web Development", "DSA", "Competitive Programming", "Open Source"],
+  techCommunities: {
+    learner: "Programming Hero",
+    contributor: "GitHub",
+    explorer: "Daily.dev, W3Schools, GeekForGeeks"
+  },
+  challenge: "#100DaysOfCode to build real-world projects and strengthen React + Next.js skills"
+};
+```
+
+
 ---
 
 
