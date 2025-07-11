@@ -39,7 +39,7 @@ const zeon = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeon.cse@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-zeon)
 [![daily.dev](https://img.shields.io/badge/Daily.dev-282C34?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/zeoncse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeanur-rahaman-zeon)
 
 
 # 💻 Technologies I Work With
