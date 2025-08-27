@@ -27,7 +27,6 @@ const zeon = {
 - 🛠️ I love building **scalable, user-friendly, and responsive web applications**
 - 🌱 Also interested in **Data Structures & Algorithms** and **Competitive Programming**
 
-
 ---
 
 ## 🚀 Current Activities
