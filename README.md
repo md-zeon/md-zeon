@@ -6,16 +6,19 @@
 ```js
 const zeon = {
   pronouns: ["he", "him"],
-  code: ["C++", "JavaScript", "TypeScript", "HTML", "CSS", "Java", "C"],
-  tools: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Firebase", "Vite", "DaisyUI"],
-  currentlyLearning: ["Next.js", "TypeScript"],
-  interests: ["Web Development", "DSA", "Competitive Programming", "Open Source"],
+  programmingLanguage: ["C++", "JavaScript", "TypeScript", "Python", "Java", "C"],
+  technologies: {
+    frontend: ["Next.js", "React.js", "Tailwind CSS", "Shadcn", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
+  },
+  currentlyLearning: ["Mongoose", "TypeScript"],
+  interests: ["Web Development", "Software Engineering", "DSA", "Competitive Programming", "Open Source"],
   techCommunities: {
     learner: "Programming Hero",
     contributor: "GitHub",
-    explorer: "Daily.dev, W3Schools, GeekForGeeks"
+    explorer: ["W3Schools", "GeekForGeeks", "Daily.dev", "Official Docs"]
   },
-  challenge: "#100DaysOfCode to build real-world projects and strengthen React + Next.js skills"
+  quote: "Don't focus on goals, focus on the system instead - James Clear (Atomic Habits)"
 };
 ```
 
@@ -23,7 +26,7 @@ const zeon = {
 ## 💫 About Me
 
 - 🎓 Computer Science and Engineering student at **Northern University Bangladesh** (Graduating 2027)
-- 💻 Passionate **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 💻 Passionate **Full-Stack Web Developer** specializing in **NEXT.js** and the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 🛠️ I love building **scalable, user-friendly, and responsive web applications**
 - 🌱 Also interested in **Data Structures & Algorithms** and **Competitive Programming**
 
@@ -48,6 +51,13 @@ const zeon = {
 <table>
   <tr>
     <td align="center" width="33%">
+      <h3>DevQnA</h3>
+      <p>Q&A platform for developers</p>
+      <a href="https://github.com/md-zeon/taskero-client-side">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=DevQnA&theme=dark&show_icons=true&line_height=27" alt="DevQnA" />
+      </a>
+    </td>
+    <td align="center" width="33%">
       <h3>🚀 MicroEarn</h3>
       <p>Micro Task & Earning Platform</p>
       <a href="https://github.com/md-zeon/micro-earn-client">
@@ -59,13 +69,6 @@ const zeon = {
       <p>Historical Artifact Tracking App</p>
       <a href="https://github.com/md-zeon/histo-track-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=histo-track-client&theme=dark&show_icons=true&line_height=27" alt="HistoTrack" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>💼 Taskero</h3>
-      <p>Freelance Job Marketplace App</p>
-      <a href="https://github.com/md-zeon/taskero-client-side">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=taskero-client-side&theme=dark&show_icons=true&line_height=27" alt="Taskero" />
       </a>
     </td>
   </tr>
