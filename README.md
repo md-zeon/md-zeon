@@ -11,7 +11,7 @@ const zeon = {
     frontend: ["Next.js", "React.js", "Tailwind CSS", "Shadcn", "HTML", "CSS"],
     backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
   },
-  currentlyLearning: ["Mongoose", "TypeScript"],
+  currentlyLearning: ["React Native", "Mongoose"],
   interests: ["Web Development", "Software Engineering", "DSA", "Competitive Programming", "Open Source"],
   techCommunities: {
     learner: "Programming Hero",
