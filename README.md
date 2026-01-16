@@ -53,21 +53,21 @@ const zeon = {
     <td align="center" width="33%">
       <h3>DevQnA</h3>
       <p>Q&A platform for developers</p>
-      <a href="https://github.com/md-zeon/taskero-client-side">
+      <a href="https://github.com/md-zeon/taskero-client-side" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=DevQnA&theme=dark&show_icons=true&line_height=27" alt="DevQnA" />
       </a>
     </td>
     <td align="center" width="33%">
       <h3>🚀 MicroEarn</h3>
       <p>Micro Task & Earning Platform</p>
-      <a href="https://github.com/md-zeon/micro-earn-client">
+      <a href="https://github.com/md-zeon/micro-earn-client" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=micro-earn-client&theme=dark&show_icons=true&line_height=27" alt="MicroEarn" />
       </a>
     </td>
     <td align="center" width="33%">
       <h3>🔍 HistoTrack</h3>
       <p>Historical Artifact Tracking App</p>
-      <a href="https://github.com/md-zeon/histo-track-client">
+      <a href="https://github.com/md-zeon/histo-track-client" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-zeon&repo=histo-track-client&theme=dark&show_icons=true&line_height=27" alt="HistoTrack" />
       </a>
     </td>
