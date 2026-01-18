@@ -1,7 +1,7 @@
 <img src="https://github.com/md-zeon/md-zeon/blob/main/banner.png" >
 
 ## 👋 Hi, I’m Zeon  
-### 💻 Full Stack Web Developer | MERN Stack 
+### 💻 Junior Frontend Software Engineer | Full Stack Web Developer | MERN Stack 
 
 ```js
 const zeon = {
