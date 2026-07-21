@@ -2,7 +2,7 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every night at midnight UTC
+    - cron: '0 0 * * *' # Runs every night at midnight UTC
   workflow_dispatch: # Allows you to trigger it manually anytime
 
 permissions:
@@ -15,14 +15,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophies
-        uses: soulteary/profile-trophy-action@v1
+      - name: Generate Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          user_name: md-zeon
-          theme: darkhub
+          options: 'username=md-zeon&theme=darkhub'
+          path: github-profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push Trophies
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update GitHub profile trophies [skip ci]."
-          file_pattern: "github-profile-trophy.svg"
+      - name: Commit Trophy Card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-profile-trophy.svg
+          git commit -m "chore: update github profile trophies" || exit 0
+          git push
