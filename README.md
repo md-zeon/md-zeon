@@ -97,7 +97,6 @@ const zeon = {
 [![GitHub Streak](https://streak-stats.demolab.com/?user=md-zeon&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=md-zeon&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Zeon's GitHub Trophies](./github-profile-trophy.svg)
 
 Thank you. 😊
