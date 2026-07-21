@@ -1,9 +1,13 @@
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=md-zeon" alt="Visitor's Count" />
+</div>
+
 <img src="https://github.com/md-zeon/md-zeon/blob/main/banner.png" >
 
 ## 👋 Hi, I’m Zeon  
 ### 💻 Junior Frontend Software Engineer | Full Stack Web Developer | MERN Stack 
 
-```js
+``` js
 const zeon = {
   pronouns: ["he", "him"],
   programmingLanguage: ["C++", "JavaScript", "TypeScript", "Python", "Java", "C"],
@@ -87,14 +91,13 @@ const zeon = {
 
 
 ## 📊 GitHub Analytics
-![Zeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-zeon&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
+![Zeon's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-zeon&theme=dark&hide_border=false&count_private=true)  
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=md-zeon&theme=dark&hide_border=false)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=md-zeon&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=md-zeon&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=md-zeon&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Thank you. 😊
