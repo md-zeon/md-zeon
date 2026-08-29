@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396">
+  <defs>
+    <clipPath id="cut">
+      <polygon points="1568.16,0 1568.16,23.76 1584,27.72 1584,396 95.04,396 0,372.24 0,0" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cut)">
+    <image href="banner.png" x="0" y="0" width="1584" height="396" preserveAspectRatio="none" />
+    <polygon points="1568.16,0 1568.16,23.76 1584,27.72 1584,396 95.04,396 0,372.24 0,0"
+             fill="none" stroke="#444" stroke-width="2" />
+  </g>
+</svg>
