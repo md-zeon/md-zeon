@@ -49,7 +49,7 @@
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// ZEON_OBJECT //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// ZEON_OBJECT //</span>
 
 ```js
 const zeon = {
@@ -59,7 +59,7 @@ const zeon = {
   basedIn: "Tongi, Gazipur, Bangladesh · UTC+06",
   education: "BSc CSE @ Northern University Bangladesh — 2027",
   buildingSince: 2023,
-  languages: ["C++", "C", "JavaScript", "TypeScript", "Python", "Java", "PHP"],
+  languages: ["C++", "C", "JavaScript", "TypeScript", "Python", "Java"],
   core: {
     frontend: ["Next.js", "React", "Tailwind CSS", "GSAP", "Framer Motion"],
     backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma", "Socket.IO", "Firebase"],
@@ -73,7 +73,7 @@ const zeon = {
 ```
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// ABOUT_ME //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// ABOUT_ME //</span>
 
 <table align="center">
   <tr>
@@ -102,11 +102,44 @@ const zeon = {
 
 > "Frameworks change, fundamentals don't. I pick the right tool for each problem — not the other way around."
 
-<p style="color:#5542ff;font-family:monospace;font-size:0.75rem;letter-spacing:0.12em;text-align:right;margin:0">// WWW.MD_ZEON.SYSTEM · OPEN SOURCE CONTRIBUTOR</p>
+<p style="text-align:right;margin:0"><span style="border:1px solid #444;background:#0a090f;color:#a5a8ff;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// WWW.MD_ZEON.SYSTEM · OPEN SOURCE CONTRIBUTOR</span></p>
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// STACK_MATRIX //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// HOW_I_WORK //</span>
+
+<table align="center">
+  <tr>
+    <td align="left" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:33%">
+      <p style="color:#f8ff31;font-family:monospace;font-size:0.7rem;letter-spacing:0.15em;margin:0 0 6px">SHIP SMALL</p>
+      🔖 Small, reviewable PRs — each with a screenshot or video of what actually shipped.
+    </td>
+    <td align="left" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:33%">
+      <p style="color:#f8ff31;font-family:monospace;font-size:0.7rem;letter-spacing:0.15em;margin:0 0 6px">TEST WHAT MATTERS</p>
+      🧪 Unit tests on the logic that matters — utilities, database layers, risky API paths.
+    </td>
+    <td align="left" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:33%">
+      <p style="color:#f8ff31;font-family:monospace;font-size:0.7rem;letter-spacing:0.15em;margin:0 0 6px">LEARN OUT LOUD</p>
+      🗂️ I ship experiments publicly — my process and taste are visible in every repo.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// LEARNING_QUEUE //</span>
+
+| Status | Focus |
+| --- | --- |
+| ✅ | **Next.js 15 · TypeScript** — App Router, Server Actions, RSC |
+| 🔄 | **DSA** — daily problems in C++, building toward consistency |
+| 🔄 | **AI integrations** — LLM APIs wired into real products |
+| 📡 | **Real-time at scale** — Socket.IO patterns beyond chat |
+| 🧰 | **Delivery** — CI/CD, testing, observability, deployment |
+
+<br/>
+
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// STACK_MATRIX //</span>
 
 <table align="center">
   <tr>
@@ -118,7 +151,6 @@ const zeon = {
       <img src="https://img.shields.io/badge/C-0a090f.svg?style=for-the-badge&logo=c&logoColor=00599c&labelColor=0a090f&color=0a090f&border_radius=24" alt="C"/>
       <img src="https://img.shields.io/badge/Python-0a090f.svg?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=0a090f&color=0a090f&border_radius=24" alt="Python"/>
       <img src="https://img.shields.io/badge/Java-0a090f.svg?style=for-the-badge&logo=openjdk&logoColor=ed8b00&labelColor=0a090f&color=0a090f&border_radius=24" alt="Java"/>
-      <img src="https://img.shields.io/badge/PHP-0a090f.svg?style=for-the-badge&logo=php&logoColor=777bb4&labelColor=0a090f&color=0a090f&border_radius=24" alt="PHP"/>
     </td>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:14px;width:25%">
       <p style="color:#5542ff;font-family:monospace;font-size:0.7rem;letter-spacing:0.15em;margin:0 0 8px">FRONTEND</p>
@@ -146,53 +178,48 @@ const zeon = {
       <img src="https://img.shields.io/badge/Git-0a090f.svg?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0a090f&color=0a090f&border_radius=24" alt="Git"/>
       <img src="https://img.shields.io/badge/JWT-0a090f.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=f8ff31&labelColor=0a090f&color=0a090f&border_radius=24" alt="JWT"/>
       <img src="https://img.shields.io/badge/npm-0a090f.svg?style=for-the-badge&logo=npm&logoColor=cb3837&labelColor=0a090f&color=0a090f&border_radius=24" alt="npm"/>
-      <img src="https://img.shields.io/badge/PowerShell-0a090f.svg?style=for-the-badge&logo=powershell&logoColor=5391fe&labelColor=0a090f&color=0a090f&border_radius=24" alt="PowerShell"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// FEATURED_DEPLOYMENTS //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// FEATURED_DEPLOYMENTS //</span>
 
 <table align="center">
   <tr>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">Smart NUB Campus</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">REAL-TIME ACADEMIC NETWORK · 195+ ENDPOINTS · 48 MODELS</p>
-      <a href="https://github.com/md-zeon/smart-nub-campus-client">
-        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=smart-nub-campus-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Smart NUB Campus" width="100%"/>
-      </a>
+      <a href="https://smart-nub-campus-client.vercel.app/"><img src="./featured-smart-nub-campus.svg" width="100%" alt="Smart NUB Campus cover" loading="lazy"/></a>
+      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:10px 0 4px">Smart NUB Campus</p>
+      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 8px">REAL-TIME ACADEMIC NETWORK · 195+ ENDPOINTS · 48 MODELS</p>
+      <p style="font-family:monospace;font-size:0.8rem;margin:0"><a href="https://smart-nub-campus-client.vercel.app/">LIVE</a> · <a href="https://github.com/md-zeon/smart-nub-campus-client">REPO</a></p>
     </td>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">DevQnA</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">DEVELOPER Q&A PLATFORM · 100% CUSTOM · NEXT.JS 15</p>
-      <a href="https://github.com/md-zeon/DevQnA">
-        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=DevQnA&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="DevQnA" width="100%"/>
-      </a>
+      <a href="https://dev-qna.vercel.app/"><img src="./featured-devqna.svg" width="100%" alt="DevQnA cover" loading="lazy"/></a>
+      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:10px 0 4px">DevQnA</p>
+      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 8px">DEVELOPER Q&A PLATFORM · 100% CUSTOM · NEXT.JS 15</p>
+      <p style="font-family:monospace;font-size:0.8rem;margin:0"><a href="https://dev-qna.vercel.app/">LIVE</a> · <a href="https://github.com/md-zeon/DevQnA">REPO</a></p>
     </td>
   </tr>
   <tr>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">Oshudpati Marketplace</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">MEDICINE MARKETPLACE · 3-ROLE RBAC · ORDER LIFECYCLE</p>
-      <a href="https://github.com/md-zeon/oshudpati-marketplace-client">
-        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=oshudpati-marketplace-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Oshudpati Marketplace" width="100%"/>
-      </a>
+      <a href="https://oshudpati-marketplace-client.vercel.app/"><img src="./featured-oshudpati.svg" width="100%" alt="Oshudpati Marketplace cover" loading="lazy"/></a>
+      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:10px 0 4px">Oshudpati Marketplace</p>
+      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 8px">MEDICINE MARKETPLACE · 3-ROLE RBAC · ORDER LIFECYCLE</p>
+      <p style="font-family:monospace;font-size:0.8rem;margin:0"><a href="https://oshudpati-marketplace-client.vercel.app/">LIVE</a> · <a href="https://github.com/md-zeon/oshudpati-marketplace-client">REPO</a></p>
     </td>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">MicroEarn</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">MICRO-TASK MARKETPLACE · WALLETS · REWARDS · MERN</p>
-      <a href="https://github.com/md-zeon/micro-earn-client">
-        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=micro-earn-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="MicroEarn" width="100%"/>
-      </a>
+      <a href="https://micro-earn-7be08.web.app/"><img src="./featured-microearn.svg" width="100%" alt="MicroEarn cover" loading="lazy"/></a>
+      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:10px 0 4px">MicroEarn</p>
+      <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 8px">MICRO-TASK MARKETPLACE · WALLETS · REWARDS · MERN</p>
+      <p style="font-family:monospace;font-size:0.8rem;margin:0"><a href="https://micro-earn-7be08.web.app/">LIVE</a> · <a href="https://github.com/md-zeon/micro-earn-client">REPO</a></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// FROM_THE_LABS //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// FROM_THE_LABS //</span>
 
 <details>
 <summary style="cursor:pointer"><span style="border:1px solid #444;background:#0a090f;color:#f8ff31;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem">▶ EXPERIMENTS · MOTION &amp; SIDE-QUESTS</span></summary>
@@ -213,52 +240,36 @@ const zeon = {
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// TELEMETRY_ANALYTICS //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// TELEMETRY_ANALYTICS //</span>
 
 <p align="center">
-  <img src="https://github-readme-stats-five-eta-36.vercel.app/api?username=md-zeon&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-five-eta-36.vercel.app/api/top-langs/?username=md-zeon&layout=compact&theme=dark&hide_border=false&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444&langs_count=8" alt="Top Languages" width="39%"/>
+  <img src="https://github-readme-stats-five-eta-36.vercel.app/api?username=md-zeon&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="GitHub Stats" width="49%" loading="lazy"/>
+  <img src="https://github-readme-stats-five-eta-36.vercel.app/api/top-langs/?username=md-zeon&layout=compact&theme=dark&hide_border=false&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444&langs_count=8" alt="Top Languages" width="39%" loading="lazy"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=md-zeon&theme=dark&background=0a090f&border=444444&fire=f8ff31&ring=5542ff&sideLabels=afafaf&currStreakNum=efefe6&currStreakLabel=f8ff31&dates=afafaf&sideNums=5542ff" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=md-zeon&theme=dark&background=0a090f&border=444444&fire=f8ff31&ring=5542ff&sideLabels=afafaf&currStreakNum=efefe6&currStreakLabel=f8ff31&dates=afafaf&sideNums=5542ff" alt="GitHub Streak" width="49%" loading="lazy"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="./github-profile-trophy.svg" alt="GitHub Trophies" width="90%"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="./github-profile-trophy.svg" alt="GitHub Trophies" width="90%" loading="lazy"/></a>
 </p>
 
 <br/>
 
-## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// CONNECT_END_POINT //</span>
+## <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">// CONNECT_END_POINT //</span>
 
-<table align="center">
-  <tr>
-    <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:18px;width:33%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0">💬 Let's work together</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.75rem;margin:6px 0 12px">OPEN TO INTERNSHIPS · FREELANCE · OPEN SOURCE</p>
-      <a href="mailto:zeon.cse@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-f8ff31?style=for-the-badge&logo=gmail&logoColor=0a090f&labelColor=f8ff31&color=f8ff31&border_radius=24" alt="Email"/></a>
-      <br/><br/>
-      <a href="https://wa.me/8801521721040"><img src="https://img.shields.io/badge/WHATSAPP-5542ff?style=for-the-badge&logo=whatsapp&logoColor=efefe6&labelColor=5542ff&color=5542ff&border_radius=24" alt="WhatsApp"/></a>
-    </td>
-    <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:18px;width:33%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0">🌐 Follow along</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.75rem;margin:6px 0 12px">BUILD · SHIP · SHARE</p>
-      <a href="https://github.com/md-zeon"><img src="https://img.shields.io/badge/GITHUB-0a090f?style=for-the-badge&logo=github&logoColor=f8ff31&labelColor=0a090f&color=0a090f&border_radius=24" alt="GitHub"/></a>
-      <br/><br/>
-      <a href="https://x.com/developer_zeon"><img src="https://img.shields.io/badge/X-0a090f?style=for-the-badge&logo=x&logoColor=efefe6&labelColor=0a090f&color=0a090f&border_radius=24" alt="X"/></a>
-    </td>
-    <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:18px;width:33%">
-      <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0">👨‍💻 Professional</p>
-      <p style="color:#afafaf;font-family:monospace;font-size:0.75rem;margin:6px 0 12px">CAREER · ROLE · REFERENCES</p>
-      <a href="https://www.linkedin.com/in/zeanur-rahaman-zeon/"><img src="https://img.shields.io/badge/LINKEDIN-5542ff?style=for-the-badge&logo=linkedin&logoColor=efefe6&labelColor=5542ff&color=5542ff&border_radius=24" alt="LinkedIn"/></a>
-      <br/><br/>
-      <a href="mailto:zeon.cse@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-f8ff31?style=for-the-badge&logo=rocket&logoColor=0a090f&labelColor=f8ff31&color=f8ff31&border_radius=24" alt="Hire me"/></a>
-      <br/><br/>
-      <a href="https://zeanurrahamanzeon.vercel.app/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-0a090f?style=for-the-badge&logo=vercel&logoColor=f8ff31&labelColor=0a090f&color=0a090f&border_radius=24" alt="Portfolio"/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:600;margin:0 0 8px">Open to internships · freelance · open source</p>
+<p style="font-family:monospace;font-size:0.95rem;margin:0">
+  <a href="mailto:zeon.cse@gmail.com">EMAIL</a> ·
+  <a href="https://wa.me/8801521721040">WHATSAPP</a> ·
+  <a href="https://github.com/md-zeon">GITHUB</a> ·
+  <a href="https://x.com/developer_zeon">X</a> ·
+  <a href="https://www.linkedin.com/in/zeanur-rahaman-zeon/">LINKEDIN</a> ·
+  <a href="https://zeanurrahamanzeon.vercel.app/">PORTFOLIO</a>
+</p>
+</div>
 
 <br/>
 
@@ -266,13 +277,13 @@ const zeon = {
 
 <div align="center">
 
-<p style="color:#afafaf;font-family:monospace;font-size:0.7rem;letter-spacing:0.12em">// SYSTEM_STATUS: ONLINE // LAST_COMMIT: ALWAYS_BUILDING //</p>
+<p><span style="border:1px solid #444;background:#0a090f;color:#f8ff31;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.7rem;letter-spacing:0.12em;display:inline-block">// SYSTEM_STATUS: ONLINE</span> <span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.7rem;letter-spacing:0.12em;display:inline-block">// LAST_COMMIT: ALWAYS_BUILDING</span></p>
 
-<p style="color:#5542ff;font-family:monospace;font-size:0.75rem">A dedicated builder who turns ideas into shipped products. 🛰️</p>
+<p><span style="border:1px solid #444;background:#0a090f;color:#a5a8ff;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.75rem;display:inline-block">A dedicated builder who turns ideas into shipped products. 🛰️</span></p>
 
-<a href="https://github.com/md-zeon?tab=followers"><img src="https://img.shields.io/github/followers/md-zeon?style=social" alt="GitHub Followers"/></a>
-<a href="https://github.com/md-zeon"><img src="https://img.shields.io/github/last-commit/md-zeon/md-zeon?style=social" alt="Last commit"/></a>
+<a href="https://github.com/md-zeon?tab=followers"><img src="https://img.shields.io/github/followers/md-zeon?style=social" alt="GitHub Followers" loading="lazy"/></a>
+<a href="https://github.com/md-zeon"><img src="https://img.shields.io/github/last-commit/md-zeon/md-zeon?style=social" alt="Last commit" loading="lazy"/></a>
 
-<p style="color:#afafaf;font-family:monospace;font-size:0.7rem">Thanks for visiting — deploying something new soon. 😊</p>
+<p><span style="border:1px solid #444;background:#0a090f;color:#afafaf;border-radius:999px;padding:4px 14px;font-family:monospace;font-size:0.7rem;display:inline-block">Thanks for visiting — deploying something new soon. 😊</span></p>
 
 </div>
