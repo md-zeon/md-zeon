@@ -161,14 +161,14 @@ const zeon = {
       <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">Smart NUB Campus</p>
       <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">REAL-TIME ACADEMIC NETWORK · 195+ ENDPOINTS · 48 MODELS</p>
       <a href="https://github.com/md-zeon/smart-nub-campus-client">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=md-zeon&repo=smart-nub-campus-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Smart NUB Campus" width="100%"/>
+        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=smart-nub-campus-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Smart NUB Campus" width="100%"/>
       </a>
     </td>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
       <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">DevQnA</p>
       <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">DEVELOPER Q&A PLATFORM · 100% CUSTOM · NEXT.JS 15</p>
       <a href="https://github.com/md-zeon/DevQnA">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=md-zeon&repo=DevQnA&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="DevQnA" width="100%"/>
+        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=DevQnA&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="DevQnA" width="100%"/>
       </a>
     </td>
   </tr>
@@ -177,14 +177,14 @@ const zeon = {
       <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">Oshudpati Marketplace</p>
       <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">MEDICINE MARKETPLACE · 3-ROLE RBAC · ORDER LIFECYCLE</p>
       <a href="https://github.com/md-zeon/oshudpati-marketplace-client">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=md-zeon&repo=oshudpati-marketplace-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Oshudpati Marketplace" width="100%"/>
+        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=oshudpati-marketplace-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="Oshudpati Marketplace" width="100%"/>
       </a>
     </td>
     <td align="center" style="background:#0a090f;border:1px solid #444;border-radius:4px;padding:16px;width:50%">
       <p style="color:#efefe6;font-family:Tahoma,sans-serif;font-weight:700;margin:0 0 4px">MicroEarn</p>
       <p style="color:#afafaf;font-family:monospace;font-size:0.7rem;margin:0 0 10px">MICRO-TASK MARKETPLACE · WALLETS · REWARDS · MERN</p>
       <a href="https://github.com/md-zeon/micro-earn-client">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=md-zeon&repo=micro-earn-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="MicroEarn" width="100%"/>
+        <img src="https://github-readme-stats-five-eta-36.vercel.app/api/pin/?username=md-zeon&repo=micro-earn-client&show_owner=false&theme=dark&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="MicroEarn" width="100%"/>
       </a>
     </td>
   </tr>
@@ -216,8 +216,8 @@ const zeon = {
 ## <span style="font-family:monospace;color:#afafaf;font-size:0.75rem;letter-spacing:0.12em">// TELEMETRY_ANALYTICS //</span>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-zeon&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-zeon&layout=compact&theme=dark&hide_border=false&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444&langs_count=8" alt="Top Languages" width="39%"/>
+  <img src="https://github-readme-stats-five-eta-36.vercel.app/api?username=md-zeon&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-five-eta-36.vercel.app/api/top-langs/?username=md-zeon&layout=compact&theme=dark&hide_border=false&bg_color=0a090f&title_color=f8ff31&icon_color=5542ff&text_color=efefe6&border_color=444444&langs_count=8" alt="Top Languages" width="39%"/>
 </p>
 
 <p align="center">
