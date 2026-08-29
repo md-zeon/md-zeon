@@ -225,7 +225,7 @@ const zeon = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-zeon&theme=darkhub&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" width="90%"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="./github-profile-trophy.svg" alt="GitHub Trophies" width="90%"/></a>
 </p>
 
 <br/>
