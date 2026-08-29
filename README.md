@@ -270,9 +270,8 @@ const zeon = {
 
 <p style="color:#5542ff;font-family:monospace;font-size:0.75rem">A dedicated builder who turns ideas into shipped products. 🛰️</p>
 
-<img src="https://img.shields.io/github/stars/md-zeon/md-zeon?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/md-zeon/md-zeon?style=social" alt="Forks"/>
-<img src="https://img.shields.io/github/watchers/md-zeon/md-zeon?style=social" alt="Watchers"/>
+<a href="https://github.com/md-zeon?tab=followers"><img src="https://img.shields.io/github/followers/md-zeon?style=social" alt="GitHub Followers"/></a>
+<a href="https://github.com/md-zeon"><img src="https://img.shields.io/github/last-commit/md-zeon/md-zeon?style=social" alt="Last commit"/></a>
 
 <p style="color:#afafaf;font-family:monospace;font-size:0.7rem">Thanks for visiting — deploying something new soon. 😊</p>
 
